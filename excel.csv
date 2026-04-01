@@ -1,0 +1,51 @@
+Student ID,Name,Email,Major,GPA,Year,Grade
+101,Aarav Sharma,aarav.sharma@university.edu,Computer Science,3.85,Junior,A
+102,Aditya Verma,aditya.verma@university.edu,Mathematics,3.72,Senior,A-
+103,Ajay Kumar,ajay.kumar@university.edu,Physics,3.65,Sophomore,B+
+104,Akshay Singh,akshay.singh@university.edu,Chemistry,3.45,Junior,B
+105,Alok Patel,alok.patel@university.edu,Biology,3.90,Senior,A
+106,Amit Gupta,amit.gupta@university.edu,Computer Science,3.55,Sophomore,B+
+107,Ananya Reddy,ananya.reddy@university.edu,English,3.78,Junior,A-
+108,Anil Desai,anil.desai@university.edu,History,3.40,Senior,B
+109,Anurag Mishra,anurag.mishra@university.edu,Computer Science,3.92,Freshman,A
+110,Arjun Nair,arjun.nair@university.edu,Economics,3.68,Junior,B+
+111,Arnav Bansal,arnav.bansal@university.edu,Computer Science,3.81,Senior,A
+112,Aryan Joshi,aryan.joshi@university.edu,Mathematics,3.76,Junior,A-
+113,Ashok Chopra,ashok.chopra@university.edu,Physics,3.62,Sophomore,B+
+114,Ashutosh Bhat,ashutosh.bhat@university.edu,Chemistry,3.48,Freshman,B
+115,Avni Iyer,avni.iyer@university.edu,Biology,3.88,Senior,A
+116,Ayansh Rao,ayansh.rao@university.edu,Computer Science,3.53,Junior,B+
+117,Bhavna Singh,bhavna.singh@university.edu,English,3.79,Sophomore,A-
+118,Bikram Dutta,bikram.dutta@university.edu,History,3.42,Senior,B
+119,Bunty Rao,bunty.rao@university.edu,Computer Science,3.91,Junior,A
+120,Chirag Aggarwal,chirag.aggarwal@university.edu,Economics,3.69,Sophomore,B+
+121,Deepak Saxena,deepak.saxena@university.edu,Computer Science,3.83,Senior,A
+122,Devendra Tiwari,devendra.tiwari@university.edu,Mathematics,3.74,Junior,A-
+123,Dhruv Malhotra,dhruv.malhotra@university.edu,Physics,3.64,Freshman,B+
+124,Dinakar Yelahanka,dinakar.yelahank@university.edu,Chemistry,3.46,Sophomore,B
+125,Divya Kumari,divya.kumari@university.edu,Biology,3.87,Senior,A
+126,Eshan Kapoor,eshan.kapoor@university.edu,Computer Science,3.57,Junior,B+
+127,Faisal Khan,faisal.khan@university.edu,English,3.77,Sophomore,A-
+128,Gaurav Sharma,gaurav.sharma@university.edu,History,3.41,Senior,B
+129,Girish Mohan,girish.mohan@university.edu,Computer Science,3.93,Freshman,A
+130,Govind Rao,govind.rao@university.edu,Economics,3.67,Junior,B+
+131,Harsh Verma,harsh.verma@university.edu,Computer Science,3.82,Senior,A
+132,Harshit Singh,harshit.singh@university.edu,Mathematics,3.73,Sophomore,A-
+133,Himanshu Patel,himanshu.patel@university.edu,Physics,3.63,Junior,B+
+134,Hitesh Reddy,hitesh.reddy@university.edu,Chemistry,3.47,Freshman,B
+135,Isha Chopra,isha.chopra@university.edu,Biology,3.89,Senior,A
+136,Ishaan Nair,ishaan.nair@university.edu,Computer Science,3.56,Sophomore,B+
+137,Ishita Kapoor,ishita.kapoor@university.edu,English,3.75,Junior,A-
+138,Ishan Desai,ishan.desai@university.edu,History,3.43,Senior,B
+139,Ishmeet Bhat,ishmeet.bhat@university.edu,Computer Science,3.94,Freshman,A
+140,Jatin Bansal,jatin.bansal@university.edu,Economics,3.66,Sophomore,B+
+141,Jayant Joshi,jayant.joshi@university.edu,Computer Science,3.84,Senior,A
+142,Jayesh Chopra,jayesh.chopra@university.edu,Mathematics,3.71,Junior,A-
+143,Jigar Patel,jigar.patel@university.edu,Physics,3.62,Freshman,B+
+144,Jitendra Kumar,jitendra.kumar@university.edu,Chemistry,3.49,Sophomore,B
+145,Jiya Verma,jiya.verma@university.edu,Biology,3.86,Senior,A
+146,Jnanesh Rao,jnanesh.rao@university.edu,Computer Science,3.54,Junior,B+
+147,Kabir Singh,kabir.singh@university.edu,English,3.80,Sophomore,A-
+148,Karan Kapoor,karan.kapoor@university.edu,History,3.44,Senior,B
+149,Karim Khan,karim.khan@university.edu,Computer Science,3.95,Freshman,A
+150,Kartik Gupta,kartik.gupta@university.edu,Economics,3.70,Junior,B+
